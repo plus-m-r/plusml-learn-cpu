@@ -20,6 +20,15 @@
 ```
 学习制作CPU/
 ├── README.md                    # 项目总览(本文件)
+├── docs/                        # 📚 学习文档目录
+│   ├── README.md                # 文档索引
+│   ├── chisel-basics/           # Chisel 基础知识
+│   │   └── README.md            # Chisel 快速入门指南
+│   ├── tutorials/               # 实践教程
+│   │   ├── README.md            # 教程索引
+│   │   └── 查看效果指南.md      # 如何查看设计效果
+│   └── references/              # 参考资料
+│       └── README.md            # 学习资源列表
 └── chisel-test/                 # Chisel 实验项目
     ├── README.md                # Chisel 项目详细说明
     ├── build.sbt                # sbt 构建配置
@@ -74,6 +83,14 @@ gtkwave --version
 ```
 
 ## 🚀 快速开始
+
+### 📚 学习文档导航
+
+在开始之前,建议先浏览学习文档:
+
+- **[Chisel 快速入门](docs/chisel-basics/README.md)** - 了解 Chisel 基础概念和语法
+- **[查看效果指南](docs/tutorials/查看效果指南.md)** - 学习如何测试和验证设计
+- **[参考资料汇总](docs/references/README.md)** - 获取更多学习资源
 
 ### 1. 进入 Chisel 项目目录
 
