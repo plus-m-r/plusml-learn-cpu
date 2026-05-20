@@ -1,0 +1,38 @@
+# Scala/sbt
+target/
+lib/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/target/
+project/target/
+.cache-main
+.scala_history
+
+# Chisel generated files
+*.fir
+*.pb
+*.anno.json
+generated/
+test_run_dir/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.metals/
+.bsp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
