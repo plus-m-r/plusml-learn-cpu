@@ -12,6 +12,15 @@
 ✅ **现代工具链**: 生成 SystemVerilog/Verilog 代码  
 ✅ **活跃社区**: Berkeley、Google 等公司支持  
 
+### 📚 Scala 基础知识点
+
+在学习 Chisel 之前,需要了解一些 Scala 基础知识:
+
+- **[val 关键字详解](scala-val-keyword.md)** - 不可变变量的完整指南
+- var 关键字 (待添加)
+- def 关键字 (待添加)
+- 类和对象 (待添加)  
+
 ---
 
 ## 🔧 环境配置

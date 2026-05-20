@@ -19,7 +19,8 @@ docs/
 ## 📖 文档分类
 
 ### 1️⃣ Chisel 基础知识 (`chisel-basics/`)
-- Chisel 语言基础
+- [Chisel 快速入门](chisel-basics/README.md) - 环境配置、核心概念
+- **[val 关键字详解](chisel-basics/scala-val-keyword.md)** - Scala 不可变变量完整指南
 - 硬件描述概念
 - 基本语法和用法
 
@@ -47,6 +48,7 @@ docs/
 | 主题 | 文档位置 |
 |------|----------|
 | Chisel 安装配置 | `chisel-basics/README.md` |
+| **Scala val 关键字** | `chisel-basics/scala-val-keyword.md` |
 | 第一个 Chisel 模块 | `../chisel-test/README.md` |
 | 测试与仿真 | `tutorials/查看效果指南.md` |
 | 波形查看 | `tutorials/查看效果指南.md` |
